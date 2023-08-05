@@ -10,7 +10,7 @@ Code was developed using R version 4.0.3, so code
 may not function properly on older versions of R.  
 
 ## Description:
-1) **README.txt**: CFile with quick start guide for demo of the Bayesian sum of trees model, description of folder contents, and instructions for using the proposed estimation procedure on the dataset of maturation in gait dynamics dataset.
+1) **README.txt**: File with quick start guide for demo of the Bayesian sum of trees model, description of folder contents, and instructions for using the proposed estimation procedure on the dataset of maturation in gait dynamics dataset.
 2) **demo.R** R script containing all code necessary to run a demo on the three simulated AR processes described in the paper. Additionally, the code to produce the estimation and the convergence diagnostics are included to demonstrate how to visualize the convergence diagnostics measures and the estimated value proposed in the paper.
 
 3) **Abrupt+Smooth_Heatmap.R**: R script containing the code to visualize the estimated and true covariate-dependent conditional log power spectrum described in the paper.
